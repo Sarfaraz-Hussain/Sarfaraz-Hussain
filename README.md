@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamsarfaraz9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsarfaraz9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarfaraz-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarfaraz-hussain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarfaraz-hussain-61b993192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarfaraz-hussain" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codingnuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingnuts" height="30" width="40" /></a>
 </p>
 
