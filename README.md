@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamsarfaraz9" target="blank"><img src="https://img.shields.io/twitter/follow/iamsarfaraz9?logo=twitter&style=for-the-badge" alt="iamsarfaraz9" /></a> </p>
 
-- 🌱 I’m currently learning **JavaFX, JavaEE/JakartaEE, Spring/SpringBoot**
+- 🌱 I’m currently learning **Linux, DSA, Networking, AWS**
 
-- 💬 Ask me about **DSA, Core JAVA, C/C++, Git, Apache Maven, SQL, Competitive Programming, Linux**
+- 💬 Ask me about **DSA, Core JAVA, C/C++, Spring boot, Git, Apache Maven, SQL, Linux**
 
 - 📫 How to reach me **call2me786@gmail.com**
 
