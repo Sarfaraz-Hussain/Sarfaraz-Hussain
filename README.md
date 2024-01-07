@@ -6,19 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/iamsarfaraz9" target="blank"><img src="https://img.shields.io/twitter/follow/iamsarfaraz9?logo=twitter&style=for-the-badge" alt="iamsarfaraz9" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, DSA, Networking, AWS**
+- 🌱 I’m currently learning **Linux, DSA, System Design, Java Microservices, Networking, AWS**
 
 - 💬 Ask me about **DSA, Core JAVA, C/C++, Spring boot, Git, Apache Maven, SQL, Linux**
 
 - 📫 How to reach me **call2me786@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I will not be happy untill I get something new and appreciable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamsarfaraz9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsarfaraz9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarfaraz-hussain-61b993192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarfaraz-hussain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingnuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingnuts" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
