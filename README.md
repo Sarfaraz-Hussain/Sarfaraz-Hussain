@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Linux, DSA, System Design, Java Microservices, Networking, AWS**
 
-- 💬 Ask me about **DSA, Core JAVA, C/C++, Spring boot, Git, Apache Maven, SQL, Linux**
+- 💬 Ask me about **DSA, JAVA, C/C++, Spring boot, Microservices, JPA, Hibernate, Git, Apache Maven, SQL, Linux**
 
 - 📫 How to reach me **call2me786@gmail.com**
 
