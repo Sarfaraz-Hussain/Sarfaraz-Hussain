@@ -1,4 +1,4 @@
-![logo](https://github.com/Sarfaraz-Hussain/Sarfaraz-Hussain/blob/master/Untitled%20presentation%20(5).png)
+![logo](https://github.com/Sarfaraz-Hussain/Sarfaraz-Hussain/blob/master/Untitled%20presentation%20(6).png)
 <h1 align="center">Hi 👋, I'm Sarfaraz Hussain</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://github.com/Sarfaraz-Hussain/Sarfaraz-Hussain/blob/master/357802203_269942692502948_1118871429472066371_n.jpg">
